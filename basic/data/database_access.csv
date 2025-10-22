@@ -1,0 +1,11 @@
+access_id,db_name,db_type,environment,employee_id,access_level,granted_date,expires_date,granted_by,ticket_number,status
+1,users_db,PostgreSQL,production,101,read,2025-10-20,2025-10-21,201,INC-1234,active
+2,users_db,PostgreSQL,production,103,read,2025-10-19,2025-10-20,201,INC-1230,expired
+3,orders_db,PostgreSQL,production,108,read-write,2025-10-15,2026-01-15,205,CHG-5678,active
+4,analytics_db,PostgreSQL,production,105,read,2025-09-01,2026-09-01,202,REQ-9012,active
+5,users_db,PostgreSQL,development,101,read-write,2024-01-10,,201,,active
+6,users_db,PostgreSQL,development,102,read-write,2024-01-10,,201,,active
+7,users_db,PostgreSQL,development,104,read-write,2024-06-01,,201,,active
+8,payments_db,MySQL,production,105,read,2025-08-15,2026-08-15,202,REQ-7890,active
+9,inventory_db,PostgreSQL,staging,106,read,2025-10-01,2025-12-01,203,REQ-3456,active
+10,logs_db,PostgreSQL,production,108,read,2025-01-01,2026-01-01,205,REQ-1111,active

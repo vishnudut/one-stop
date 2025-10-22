@@ -1,0 +1,9 @@
+report_id,report_name,period,report_type,revenue,profit,created_date,created_by,confidentiality
+1,Q1 2025 Financial Summary,2025-Q1,quarterly,12500000,2800000,2025-04-05,202,high
+2,Q2 2025 Financial Summary,2025-Q2,quarterly,14200000,3100000,2025-07-05,202,high
+3,Q3 2025 Financial Summary,2025-Q3,quarterly,15800000,3600000,2025-10-05,202,high
+4,Annual Report 2024,2024,annual,52000000,11200000,2025-01-15,202,high
+5,September 2025 Cash Flow,2025-09,monthly,5200000,1150000,2025-10-01,105,medium
+6,October 2025 Budget Forecast,2025-10,forecast,5500000,1200000,2025-10-10,105,medium
+7,Engineering Department Budget 2025,2025,departmental,8500000,-8500000,2025-01-20,202,medium
+8,Sales Commission Report Q3,2025-Q3,operational,,,2025-10-08,202,high

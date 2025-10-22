@@ -1,0 +1,9 @@
+entry_id,ip_address,description,requested_by,approved_by,purpose,approved_date,expires_date,status
+1,203.0.113.45,Alice home office,101,205,Remote work - permanent location,2025-08-01,2026-02-01,active
+2,198.51.100.78,Stripe webhook,108,205,Payment processing integration,2024-05-15,2026-05-15,active
+3,192.0.2.100,SendGrid relay,108,205,Email service provider,2024-01-20,2026-01-20,active
+4,203.0.113.89,AWS NAT Gateway,205,,Production infrastructure,2023-06-01,2027-06-01,active
+5,198.51.100.123,Office WiFi - SF,,,Company office network,2022-01-01,2027-01-01,active
+6,192.0.2.234,Bob temporary remote,102,205,Temporary remote work - family emergency,2025-10-15,2025-11-15,active
+7,203.0.113.156,DataDog monitoring,108,205,Infrastructure monitoring,2024-08-01,2026-08-01,active
+8,198.51.100.200,Vendor XYZ,106,205,Customer demo environment access,2025-09-20,2025-10-20,expired

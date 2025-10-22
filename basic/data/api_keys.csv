@@ -1,0 +1,11 @@
+key_id,key_name,environment,created_by,created_date,expires_date,last_used,status,service
+api_001,stripe-payments-prod,production,108,2024-05-15,2025-05-15,2025-10-22,active,payments
+api_002,stripe-payments-dev,development,102,2024-03-10,2025-03-10,2025-10-21,active,payments
+api_003,sendgrid-email-prod,production,108,2024-01-20,2025-01-20,2025-10-22,active,email
+api_004,aws-s3-backup,production,205,2024-08-01,2025-08-01,2025-10-20,active,storage
+api_005,twilio-sms-prod,production,108,2024-06-15,2025-06-15,2025-10-15,active,sms
+api_006,datadog-monitoring,production,108,2023-11-01,2025-11-01,2025-10-22,active,monitoring
+api_007,github-ci-cd,production,201,2024-02-10,2025-02-10,2025-10-22,active,cicd
+api_008,openai-dev,development,101,2025-09-01,2026-09-01,2025-10-21,active,ai
+api_009,aws-rds-prod,production,205,2024-04-01,2025-04-01,2025-10-22,active,database
+api_010,slack-bot,production,102,2024-07-20,2025-07-20,2025-10-18,expired,notifications

@@ -1,0 +1,17 @@
+employee_id,name,email,department,role,manager_id,salary,hire_date,performance_rating,performance_summary,ssn_last4,home_city
+101,Alice Chen,alice.chen@company.com,Engineering,Senior Engineer,201,160000,2021-03-15,4.5,"Exceeds expectations. Strong technical leadership on API redesign.",8234,San Francisco
+102,Bob Martinez,bob.martinez@company.com,Engineering,Engineer,201,115000,2023-01-10,3.8,"Meets expectations. Solid contributor to mobile team.",4521,Austin
+103,Carol Kim,carol.kim@company.com,Engineering,Staff Engineer,201,195000,2019-07-01,4.8,"Outstanding. Led migration to microservices. Mentors 5 engineers.",9876,Seattle
+104,David Okonkwo,david.okonkwo@company.com,Engineering,Junior Engineer,201,95000,2024-06-01,3.5,"Meets expectations. Still ramping up. Good potential.",3344,Remote
+105,Elena Rodriguez,elena.rodriguez@company.com,Finance,Senior Analyst,202,125000,2020-11-20,4.2,"Exceeds expectations. Improved quarterly reporting process.",7723,New York
+106,Frank Zhang,frank.zhang@company.com,Sales,Account Executive,203,110000,2022-04-12,4.0,"Meets expectations. Closed 3 major deals in Q3.",5512,Boston
+107,Grace Patel,grace.patel@company.com,HR,HR Manager,204,135000,2018-09-05,4.6,"Exceeds expectations. Revamped performance review system.",6689,Chicago
+108,Henry Lee,henry.lee@company.com,DevOps,SRE,205,175000,2020-02-14,4.7,"Exceeds expectations. Reduced incident MTTR by 40%.",2234,Denver
+201,Isabel Santos,isabel.santos@company.com,Engineering,Engineering Manager,301,210000,2017-05-10,4.9,"Outstanding leadership. Team velocity up 30%.",1122,San Francisco
+202,James Wilson,james.wilson@company.com,Finance,Finance Manager,301,195000,2018-08-22,4.4,"Strong financial planning and analysis.",8899,New York
+203,Karen Johnson,karen.johnson@company.com,Sales,Sales Manager,301,185000,2019-03-15,4.3,"Built high-performing sales team.",4455,Boston
+204,Lisa Brown,lisa.brown@company.com,HR,HR Director,301,200000,2016-11-01,4.8,"Excellent people operations and culture.",7766,Chicago
+205,Mike Davis,mike.davis@company.com,DevOps,DevOps Lead,301,215000,2017-09-20,4.7,"Infrastructure reliability and scalability expert.",3377,Seattle
+301,Nancy Chen,nancy.chen@company.com,Executive,CTO,,350000,2015-01-15,5.0,"Visionary technical leadership.",9988,San Francisco
+302,Oscar Williams,oscar.williams@company.com,Executive,CFO,,380000,2015-06-01,4.9,"Financial strategy and growth.",5566,New York
+303,Paula Garcia,paula.garcia@company.com,Executive,CEO,,450000,2014-03-10,5.0,"Company founder. Exceptional leadership.",2211,San Francisco

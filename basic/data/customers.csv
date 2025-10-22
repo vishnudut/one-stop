@@ -1,0 +1,10 @@
+customer_id,customer_name,industry,contract_value,arr,account_executive_id,status,contract_start,contract_end,region
+1001,Acme Corp,Technology,850000,850000,106,active,2024-01-15,2026-01-15,West
+1002,GlobalTech Industries,Finance,1200000,1200000,106,active,2023-06-01,2025-06-01,East
+1003,Innovate Solutions,Healthcare,650000,650000,106,active,2024-09-10,2025-09-10,West
+1004,MegaRetail Inc,Retail,2100000,2100000,203,active,2022-11-20,2025-11-20,Central
+1005,DataDriven Analytics,Technology,480000,480000,106,negotiating,,,West
+1006,SecureBank Ltd,Finance,1800000,1800000,203,active,2023-03-15,2026-03-15,East
+1007,HealthFirst Network,Healthcare,920000,920000,203,active,2024-02-01,2027-02-01,Central
+1008,CloudNine Services,Technology,1100000,1100000,106,churned,2023-01-10,2024-01-10,West
+1009,RetailMax,Retail,750000,750000,203,active,2024-07-01,2026-07-01,East
